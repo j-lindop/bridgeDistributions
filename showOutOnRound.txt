@@ -1,0 +1,48 @@
+﻿Five Cards Between Two Hands
+
+
+
+
+
+
+        2                        round of play on which division is revealed because of show out
+4                4                5
+5                3                4
+6                2                3
+7                1                2
+8                0                1
+        3
+
+
+
+
+
+
+
+
+        1                        round of play on which division is revealed because of show out
+4                4                5
+5                3                4
+6                2                3
+7                1                2
+8                0                1
+        4
+
+
+
+
+
+
+
+
+
+
+
+
+        0                        round of play on which division is revealed because of show out
+4                4                5
+5                3                4
+6                2                3
+7                1                2
+8                0                1
+        5
