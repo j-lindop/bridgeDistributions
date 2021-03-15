@@ -55,7 +55,7 @@ var allShapes = [
 
 
 
-
+/* 12 cases */
 var shape4432 = [
 	4432,
 	4423,
