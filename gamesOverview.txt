@@ -1,0 +1,47 @@
+
+
+To Do:
+Make a chart that shows 
+
+
+how many tricks are needed for each of these contracts? multiple choice? What are the options here? 
+You need X and so can afford Y. 
+
+What is the score for this contract? 
+Then offer an explanation. 
+
+
+5-2, how many ways can the opponents cards divide? 
+3-3
+4-2
+5-1
+What are the terms general and specific. 
+
+
+Another basic kind of game is to just guess how a suit is likely to divide. 
+
+
+Stage one
+
+people use the overall hand patterns to guess the fourth suit. There are a number of ways they can approach this. 
+
+options:
+select the ones they want, show in order, (show percentages?).
+
+
+might be able to record results for a single session, if not save results. 
+
+
+Stage Two 
+
+Once they do this, as a defender they are ask how many ways a declarer's hand can fill out. 
+
+
+
+Stage Three 
+
+Show out rounds 
+
+
+ROund Four
+

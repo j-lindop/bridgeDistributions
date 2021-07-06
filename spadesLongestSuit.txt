@@ -2,6 +2,10 @@
 	
 	Spades, when five cards is the longest suit: 
 
+
+	one of four general paterns: 5 : 3-3-2, 4-3-1, 4-2-2, 4-4-0
+can also make distinctions for cases where there is another five-card major. 
+
 	5332, 
 	5323, 
 	5233,
@@ -16,3 +20,7 @@
 	5422, 
 	5242, 
 	5224, 
+
+	5440, 
+	5404, 
+	5044
